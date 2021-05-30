@@ -1,1 +1,1 @@
-# The-Cube-Game
+# The Cube Game
